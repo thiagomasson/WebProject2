@@ -1,0 +1,35 @@
+﻿body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    color: #ffffff;
+    background-color: #000000;
+    margin: 16px;
+    background-image: url(https://pbs.twimg.com/profile_images/1628459316956069888/B97cPL4K_400x400.jpg);
+    background-size: cover;
+}
+
+.box1 {
+    width: 40%;
+    background-color: #272727;
+    margin: 8px;
+    border: 16px groove cyan;
+    border-radius: 8px;
+    padding: 16px;
+}
+
+.box2 {
+    margin-top: 32px;
+    border-color: aquamarine;
+}
+
+.titulo {
+}
+
+.texto {
+    line-height: 150%;
+    text-align: justify;
+}
+
+hr {
+    background-color: darkcyan;
+}
